@@ -234,3 +234,18 @@ It does not depend on:
 Создано для того, чтобы автоматизировать рутину и вернуть время на творчество!
 
 💬 Связь с разработчиком и обновления: [@maya_pro](https://t.me/maya_pro)
+
+<!-- SAIFER_REPO_PASSPORT_BEGIN: #435 -->
+## Паспорт
+
+- **Что это:** Self-contained Cursor/OpenClaw SEO audit skill for Google and Yandex..
+- **Статус:** не знаю (работает / пауза / заморожено ❄️ / брошено — нет runtime-проверки).
+- **Где работает:** не знаю (сервер/ПК/сайт/облако не подтверждены).
+- **Как запустить или открыть:** [репозиторий](https://github.com/SaiferSMART/my_google-yandex-seo-skill); запуск приложения — не знаю (ищите инструкции в README).
+- **Связанные открытые PR:** [актуальный список](https://github.com/SaiferSMART/my_google-yandex-seo-skill/pulls?q=is%3Apr+is%3Aopen).
+- **Связанные открытые Issue:** [актуальный список](https://github.com/SaiferSMART/my_google-yandex-seo-skill/issues?q=is%3Aissue+is%3Aopen).
+- **Дата последнего изменения GitHub:** 2026-03-11T02:59:52Z (поле `pushed_at`, любая ветка; не равно проверке эксплуатации).
+- **Кто ведёт:** не знаю; владелец репозитория GitHub — `SaiferSMART`.
+- **Вопрос к владелице:** подтвердить статус, площадку, точку входа и фактического ведущего.
+- **Задание:** [Issue №435](https://github.com/SaiferSMART/saifer-ai-ops/issues/435).
+<!-- SAIFER_REPO_PASSPORT_END -->
